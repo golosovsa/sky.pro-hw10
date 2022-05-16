@@ -130,6 +130,6 @@ Place file to your app directory
 - [ ] When requesting `get /skills/<x> `candidates with the skill are displayed
 - [ ] Route-view parameter are independent of lower/upper register
  
- [## Project status]::
- [### Tag v1.0]::
- [- Create MVP]::
+ ## Project status
+ ### Tag v1.0
+ - Create MVP
